@@ -1,4 +1,4 @@
-How to Use the program : 
+How to use the program : 
 
 Open a terminal and tap this two commands : 
 
